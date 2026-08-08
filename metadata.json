@@ -1,0 +1,6 @@
+{
+  "name": "Postiz Social Media Scheduler",
+  "description": "Cross-platform social media auto-scheduler, content lifecycle calendar, AI-driven posting time optimization, cross-platform engagement metrics, conversion funnels, and post ROI tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
